@@ -6,7 +6,7 @@ I am a curiosity-driven engineer and founder with years of experience building s
 I believe in **building with intent**, whether that’s relocating across continents to join a high-growth startup or riding solo across Europe on a motorbike.
 
 ### 🔭 What I’m Doing Now
-* **Building:** My next venture (Started February 2026) focused on solving human problems through AI with strong focus on innovative and open culture.
+* **Building:** My next venture (Started February 2026) focused on solving human problems through AI with strong focus on an innovative and open culture.
 * **Refining:** Advancing agentic workflows and LLM integration for enterprise-grade search.
 * **Mentoring:** Helping the next generation of engineers navigate complex distributed systems and big data using agents to do most of the manual labour.
 
