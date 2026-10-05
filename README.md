@@ -1,5 +1,5 @@
 # 👋🏼 I'm Varun Sharma
-**Founder | Engineer | Motorcyclist**
+**Founder | Engineer | Adventurer**
 
 I am a curiosity-driven engineer and founder with years of experience building scalable web applications and investigative intelligence software. My career has been a series of intentional leaps: from teaching myself PHP in 2008 to building AI platforms that handle petabytes of data for law enforcement and governments.
 
